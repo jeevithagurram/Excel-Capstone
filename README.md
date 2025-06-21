@@ -1,4 +1,4 @@
-# Excell-Capstone
+# Excel-Capstone
 This repository contains the final capstone project for the Data Analytics program, focused on an in-depth analysis of order-level data using Microsoft Excel.
 
 📌 Project Overview
